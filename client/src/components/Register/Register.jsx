@@ -174,7 +174,7 @@ export default function Register({ modalRef, switchToLogin }) {
         </button>
       </form>
       <section className="register__right">
-        <img src={loginImage} alt="dressage" />
+        <img src={loginImage} alt="dessin chien roi" />
       </section>
     </div>
   );

@@ -14,7 +14,7 @@ function About() {
         <img
           className="camille"
           src={camille}
-          alt="camile avec son doggo chienchien "
+          alt="Une femme avec un chien"
         />
         <CoeurVert className="coeurVert" />
         <Star className="stari" />

@@ -22,7 +22,7 @@ function AppointementRequestCard() {
     <div className="serviceCard">
       <img
         src={sherlock}
-        alt="demande de contact"
+        alt="Le golden retriever Sherlock"
         className="serviceCard__image"
       />
       <div className="serviceCard__content">

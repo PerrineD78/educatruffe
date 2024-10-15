@@ -18,7 +18,7 @@ function flair() {
       </div>
       <div className="flair__img">
         <div className="flair__chien">
-          <img className="flair__mask" src={Mask} alt="" />
+          <img className="flair__mask" src={Mask} alt="Tempete le chien" />
         </div>
         <div className="flair__etoiles1">
           <Etoiles className="Etoiles__1" />

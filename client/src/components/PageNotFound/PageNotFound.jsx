@@ -21,7 +21,7 @@ function PageNotFound() {
           <CoeurVert className="coeurVert" />
         </div>
         <div className="pageNotFound__img">
-          <img className="flair__mask" src={Mask} alt="" />
+          <img className="flair__mask" src={Mask} alt="Le chien Tempete" />
           <Link to="/toutouLover">
             <Os />
           </Link>
